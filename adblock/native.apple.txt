@@ -102,3 +102,14 @@
 ||qwapi.com^
 ||marketing.services.apple^
 ||beacon.shazam.com^
+||mask-h2.icloud.com^ 
+||mask.icloud.com^ 
+||doh.dns.apple.com^ 
+||mask-canary.icloud.com^
+||mask-api.icloud.com^
+||doh.dns.apple.com.v.aaplimg.com^
+||mask.apple-dns.net^
+||h3.apis.apple.map.fastly.net^ 
+||apple-relay.cloudflare.com^
+||apple-relay.fastly-edge.com^
+||quota.fe2.apple-dns.net^
